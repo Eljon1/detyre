@@ -1,0 +1,2 @@
+# detyre
+detyre per kurs
